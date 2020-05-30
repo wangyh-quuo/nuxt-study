@@ -1,0 +1,11 @@
+{
+  "name": "nuxt-app",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "nuxt": "^2.12.2",
+    "vue-notifications": "^1.0.2"
+  }
+}
