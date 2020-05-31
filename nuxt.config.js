@@ -5,7 +5,7 @@ module.exports = {
 
   plugins: [
     // '~/plugins/vue-notifications.js',
-    '~/plugins/vue-inject.js',
+    // '~/plugins/vue-inject.js',
     '~/plugins/combined-inject.js',
   ]
 }

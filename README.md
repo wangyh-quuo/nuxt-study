@@ -140,3 +140,13 @@ module.exports = {
 }
 ```
 使用context.app.$axios,this.$axios
+
+#### 资源
+1. webpack打包
+assets下静态资源，```~/assets/...```
+2. static目录下资源
+static目录下载文件为自动映射到根目录下
+图片static/image/xxx.png
+```/image/xxx.png```
+
+#### store
